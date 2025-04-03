@@ -8,4 +8,4 @@ https://colab.research.google.com/drive/1936PcKqxkLWqQtxS3L9PZP2vssJbIooS?usp=sh
 作業一 : </br>
 https://colab.research.google.com/drive/1cNYRlL5g4awHGRypSwO7d2D1bOiJzrpa?usp=sharing </br>
 作業二 : </br>
-https://colab.research.google.com/drive/1bFqz5-sCojMZakvP5eATnMsaMVSbVIrb?authuser=3#scrollTo=-7sbLMgeXWTa </br>
+https://colab.research.google.com/drive/1bFqz5-sCojMZakvP5eATnMsaMVSbVIrb?authuser=3 </br>
